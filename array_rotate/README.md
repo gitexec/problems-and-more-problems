@@ -11,6 +11,8 @@ Each step, the last element in the array is moved to the front of the array, and
 Another example:
 
 Given `[1, 2, 3, 4, 5]` and `n = 3`, you should return `[3, 4, 5, 1, 2]`
+[5,1,3,4]
+
 
 ## Questions for further understanding
 

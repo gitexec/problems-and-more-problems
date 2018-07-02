@@ -1,0 +1,23 @@
+{
+  "name": "practice-problems",
+  "version": "1.0.0",
+  "description": "Tired of Googling around for programming interview practice problems? This is a project to build high-quality practice problems suggested for preparing for programming interviews.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingforinterviews/practice-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingforinterviews/practice-problems/issues"
+  },
+  "homepage": "https://github.com/codingforinterviews/practice-problems#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  },
+  "dependencies": {}
+}
